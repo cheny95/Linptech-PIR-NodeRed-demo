@@ -1,5 +1,7 @@
 # 领普人体存在传感器 node-red 案例
 
+![yaofan](https://user-images.githubusercontent.com/6293952/196037499-17ef6aec-9fe4-4fc2-a4ac-811a12bfb380.jpg)
+
 ### 食用方法
 1. 下载Linptech.json到电脑
 2. 打开你的 node-red，进入后
